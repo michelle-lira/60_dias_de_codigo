@@ -11,8 +11,9 @@ Este desafio foi proposto como atividade do Curso de Análise de Dados (projeto 
 
 * Os demais virão:
   * da [Lista de Exercícios da Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
-  * baseados nas atividades propostas no [Curso Python Pro](https://www.python.pro.br)
-  * do [LeetCode](https://leetcode.com/)
-  * do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)
-  * do [Codewars](https://www.codewars.com/)
-  
+  * [Curso Python Pro](https://www.python.pro.br)
+  * [Alura](https://www.alura.com.br/)
+  * [Codewars](https://www.codewars.com/)
+  * [Dataquest](https://www.dataquest.io/)
+  * [LeetCode](https://leetcode.com/)
+  * [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login)
