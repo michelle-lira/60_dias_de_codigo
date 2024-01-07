@@ -2,7 +2,7 @@
 
 ## Desafio 
 
-Este desafio foi proposto como atividade do Curso de Análise de Dados (projeto VamoAI) uma parceria do Ifood com a Resilia Educação.  
+Este desafio foi proposto como atividade do Curso de Análise de Dados (projeto VamoAI) uma parceria do iFood com a Resilia Educação.  
 
 
 ## De onde virão os exercícios?
